@@ -1,7 +1,8 @@
 # Dependencies
+
 import tweepy
-import matplotlib
-matplotlib.use('plt')
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 import numpy as np
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import pandas as pd

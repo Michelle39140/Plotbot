@@ -14,6 +14,4 @@ For example, when a user tweets, **"@PlotBot Analyze: @CNN,"** it will trigger a
 
 A plot from the sentiment analysis is then tweeted to the Plotbot twitter feed. Examples of scatter plots generated:
 
-![@juanitasoranno.png](Images/@juanitasoranno.png)
-![@nancypwong.png](Images/@nancypwong.png)
-![nytimes.png](Images/nytimes.png)
+![output example](Output_example.png)

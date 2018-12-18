@@ -1,6 +1,7 @@
 # Dependencies
 import tweepy
-import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use('plt')
 import numpy as np
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import pandas as pd

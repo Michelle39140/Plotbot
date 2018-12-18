@@ -1,2 +1,5 @@
-tweepy==3.5.0
-vaderSentiment==3.2.1
+tweepy==3.6.0
+vaderSentiment==2.5
+matplotlib==2.2.2
+pandas==0.23.1
+numpy==1.14.5
